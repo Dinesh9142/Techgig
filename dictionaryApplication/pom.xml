@@ -24,7 +24,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<jdk.level>1.8</jdk.level>
 		<slf4j.version>1.7.25</slf4j.version>
-		<slf4j.logback>1.2.3</slf4j.logback>
+		<slf4j.logback>1.2.8</slf4j.logback>
 		<junit.version>4.12</junit.version>
 	</properties>
 
@@ -92,7 +92,7 @@
 		<dependency>
 			<groupId>ch.qos.logback</groupId>
 			<artifactId>logback-core</artifactId>
-			<version>1.0.13</version>
+			<version>1.2.8</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/javax.inject/javax.inject -->
 		<dependency>
